@@ -11,5 +11,5 @@ useHead({
 </script>
 
 <template>
-  <RouterView />
+  <NButton>测试</NButton>
 </template>
