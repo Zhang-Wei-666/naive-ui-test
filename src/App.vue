@@ -11,5 +11,15 @@ useHead({
 </script>
 
 <template>
-  <NButton>测试</NButton>
+  <!-- <NButton>测试</NButton> -->
+  <!-- <NCarousel>测试</NCarousel> -->
+  <!-- <NConfigProvider>测试</NConfigProvider> -->
+  <!-- <NDialogProvider>测试</NDialogProvider> -->
+  <!-- <NForm>测试</NForm> -->
+  <NFormItem>测试</NFormItem>
+  <!-- <NImage>测试</NImage> -->
+  <!-- <NInput>测试</NInput> -->
+  <!-- <NInputGroup>测试</NInputGroup> -->
+  <!-- <NInputGroupLabel>测试</NInputGroupLabel> -->
+  <!-- <NLoadingBarProvider>测试</NLoadingBarProvider> -->
 </template>
